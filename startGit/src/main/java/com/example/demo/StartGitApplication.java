@@ -8,7 +8,7 @@ public class StartGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StartGitApplication.class, args);
-		System.out.println("SomeTest");
+		System.out.println("SomeTest11");
 	}
 
 }
